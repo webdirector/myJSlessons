@@ -1,2 +1,2 @@
-# myJSlessons
-Sorax Lessons try out
+# my JS lessons
+Sorax Lessons try out (basis)
